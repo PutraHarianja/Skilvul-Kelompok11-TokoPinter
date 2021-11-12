@@ -1,6 +1,10 @@
 import styled from "styled-components";
 
 
+const TextStyle = styled.p`
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+`;
 
 export const CardBox = styled.div`
     width: 220px;
@@ -31,9 +35,7 @@ export const Image = styled.img`
 `;
 
 
-export const Author = styled.p`
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: normal;
+export const Author = styled(TextStyle)`
     font-weight: normal;
     font-size: 1rem;
     line-height: 0;
@@ -43,9 +45,7 @@ export const Author = styled.p`
 `;
 
 
-export const Title = styled.p`
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: normal;
+export const Title = styled(TextStyle)`
     font-weight: bolder;
     font-size: 1.1rem;
     margin-bottom: 0;
@@ -55,9 +55,7 @@ export const Title = styled.p`
 `;
 
 
-export const Price = styled.p`
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: normal;
+export const Price = styled(TextStyle)`
     font-weight: bold;
     font-size: 1.2rem;
     margin-bottom: 0;
