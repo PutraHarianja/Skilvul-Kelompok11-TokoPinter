@@ -6,10 +6,10 @@ export default function BookItemCard(props) {
     return (
         <Styled.CardBox>
             <Styled.ContentBox>
-                <Styled.Image src={props.url} alt="" />
-                <Styled.Author>{props.author}</Styled.Author>
-                <Styled.Title>{props.title}</Styled.Title>
-                <Styled.Price>{props.price}</Styled.Price>
+                <Styled.Image src={props.book.Url} alt="" />
+                <Styled.Author>{props.book.Author}</Styled.Author>
+                <Styled.Title>{props.book.Name}</Styled.Title>
+                <Styled.Price>Rp.{props.book.Price * 15000}</Styled.Price>
             </Styled.ContentBox>
             <Styled.ActionBox>
                 <Styled.ActionButton onClick={props.onDescription}>Deskription</Styled.ActionButton>
