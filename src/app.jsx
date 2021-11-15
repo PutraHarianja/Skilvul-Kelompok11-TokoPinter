@@ -7,8 +7,15 @@ import { BooksContext } from "./context/books-context";
 
 function App() {
 
-  const { books } = useContext(BooksContext);
+  const { books, error, loading } = useContext(BooksContext);
 
+  if (loading) {
+    return <h1>Loading...</h1>
+  }
+
+  if (error) {
+    return <h1>Server Error</h1>
+  }
 
   return (
     <div>

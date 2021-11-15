@@ -17,18 +17,26 @@ const defaultValue = [];
 
 export const BooksContext = createContext(defaultValue);
 
+
 export function BooksProvider({ children }) {
     const [books, setBooks] = useState([]);
+    const [error, setError] = useState(null);
+    const [loading, setLoading] = useState(true);
+
     useEffect(() => {
-        const url = "http://localhost:3004/books";
+        const url = "http://localhost:3005/books";
         fetch(url)
             .then((response) => response.json())
             .then((responseBooks) => responseBooks.map(createNewBooks))
-            .then(setBooks);
+            .then((value) => setBooks(value))
+            .catch(setError)
+            .finally(() => setLoading(false));
     }, []); // componentDidMount
 
     const contextValue = {
-        books: books
+        books: books,
+        error: error,
+        loading: loading
     };
 
     return (
