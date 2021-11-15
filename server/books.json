@@ -1,2103 +1,642 @@
 {
   "books": [
     {
+      "Id": "1",
       "Name": "10-Day Green Smoothie Cleanse",
       "Author": "JJ Smith",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "17350",
       "Price": "8",
       "Year": "2016",
-      "Genre\r": "Non Fiction\r",
+      "Genre": "Non Fiction",
       "Url": "https://imgv2-2-f.scribdassets.com/img/word_document/233284731/original/b8c280a574/1502110988"
     },
     {
+      "Id": "2",
       "Name": "11/22/63: A Novel",
       "Author": "Stephen King",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "2052",
       "Price": "22",
       "Year": "2011",
-      "Genre\r": "Fiction\r",
+      "Genre": "Fiction",
       "Url": "https://th.bing.com/th/id/R.28f030c242fed2373452d61e5c83be33?rik=P1MtKZiT7i8WAw&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fonix%2fcvr9781501120602%2f11-22-63-9781501120602_hr.jpg&ehk=30vXIgGCL6cKX3cFCimBrTBagzBQGEjafP6W4Ilbclg%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "3",
       "Name": "12 Rules for Life: An Antidote to Chaos",
       "Author": "Jordan B. Peterson",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "18979",
       "Price": "15",
       "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://i0.wp.com/jordanbpeterson.com/wp-content/uploads/2016/10/Peter_12Rules-for-Life_new4_1.jpg?resize=683%2C1024&ssl=1"
     },
     {
+      "Id": "4",
       "Name": "1984 (Signet Classics)",
       "Author": "George Orwell",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "21424",
       "Price": "6",
       "Year": "2017",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://images-na.ssl-images-amazon.com/images/I/61o5Ne0aHtL.jpg"
     },
     {
-      "Name": "\"5",
-      "Author": "000 Awesome Facts (About Everything!) (National Geographic Kids)\"",
-      "User Rating": "National Geographic Kids",
-      "Reviews": "4.8",
-      "Price": "7665",
-      "Year": "12",
-      "Genre\r": "2019"
-    },
-    {
+      "Id": "5",
       "Name": "A Dance with Dragons (A Song of Ice and Fire)",
       "Author": "George R. R. Martin",
-      "User Rating": "4.4",
+      "Rating": "4.4",
       "Reviews": "12643",
       "Price": "11",
       "Year": "2011",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.tC14Ba83YWXZRks4rpit-wHaMN?pid=ImgDet&rs=1"
     },
     {
+      "Id": "6",
       "Name": "A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons",
       "Author": "George R. R. Martin",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "19735",
       "Price": "30",
       "Year": "2014",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Ibs3asRLo6wWI7B-q96BmwHaK4?pid=ImgDet&rs=1"
     },
     {
+      "Id": "7",
       "Name": "A Gentleman in Moscow: A Novel",
       "Author": "Amor Towles",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "19699",
       "Price": "15",
       "Year": "2017",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://cdn2.penguin.com.au/covers/original/9780099558781.jpg"
     },
     {
-      "Name": "\"A Higher Loyalty: Truth",
-      "Author": " Lies",
-      "User Rating": " and Leadership\"",
-      "Reviews": "James Comey",
-      "Price": "4.7",
-      "Year": "5983",
-      "Genre\r": "3"
-    },
-    {
+      "Id": "8",
       "Name": "A Man Called Ove: A Novel",
       "Author": "Fredrik Backman",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "23848",
       "Price": "8",
       "Year": "2016",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/R.f9261446a93a4e672853dbb200547f81?rik=FvK4Ena4jL1Wrg&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fonix%2fcvr9781476738024%2fa-man-called-ove-9781476738024_hr.jpg&ehk=Th%2b%2frIcPsyeDTBt4PmqGsUKSy2xtkJ1mS0rwJk2s7Bc%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "A Man Called Ove: A Novel",
-      "Author": "Fredrik Backman",
-      "User Rating": "4.6",
-      "Reviews": "23848",
-      "Price": "8",
-      "Year": "2017",
-      "Genre\r": "Fiction\r"
-    },
-    {
+      "Id": "9",
       "Name": "A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror",
       "Author": "Larry Schweikart",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "460",
       "Price": "2",
       "Year": "2010",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.36bc544e7940449497b55014a0618f4d?rik=Xw6N8yHcyYafpA&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9781441756022_p0_v1_s1200x630.jpg&ehk=TKWfEyj5C8an7UW0eeCnSGvIuf%2fOlo%2bxRAbF8jXzw3E%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "10",
       "Name": "A Stolen Life: A Memoir",
       "Author": "Jaycee Dugard",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "4149",
       "Price": "32",
       "Year": "2011",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.9b307636ef7440fb57cb7da85b86424a?rik=ugFq%2fXcbCuHlKw&riu=http%3a%2f%2fcovers.booktopia.com.au%2fbig%2f9780857207135%2fa-stolen-life.jpg&ehk=NHIxlNuHjHmNd%2fTOmeI1T7fJ4xhLBA0m31QVBBtUaRo%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "11",
       "Name": "A Wrinkle in Time (Time Quintet)",
       "Author": "Madeleine L'Engle",
-      "User Rating": "4.5",
+      "Rating": "4.5",
       "Reviews": "5153",
       "Price": "5",
       "Year": "2018",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://s-media-cache-ak0.pinimg.com/736x/f4/05/19/f4051946bfaec58ab9b7aa754dc1aa10.jpg"
     },
     {
-      "Name": "\"Act Like a Lady",
-      "Author": " Think Like a Man: What Men Really Think About Love",
-      "User Rating": " Relationships",
-      "Reviews": " Intimacy",
-      "Price": " and Commitment\"",
-      "Year": "Steve Harvey",
-      "Genre\r": "4.6"
-    },
-    {
-      "Name": "\"Adult Coloring Book Designs: Stress Relief Coloring Book: Garden Designs",
-      "Author": " Mandalas",
-      "User Rating": " Animals",
-      "Reviews": " and Paisley Patterns\"",
-      "Price": "Adult Coloring Book Designs",
-      "Year": "4.5",
-      "Genre\r": "2313"
-    },
-    {
+      "Id": "12",
       "Name": "Adult Coloring Book: Stress Relieving Animal Designs",
       "Author": "Blue Star Coloring",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "2925",
       "Price": "6",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.f6b5c9dfaadaca122106fb26116792c9?rik=OVgNNbXdui%2fU1A&riu=http%3a%2f%2fi.ebayimg.com%2fimages%2fi%2f361554839496-0-1%2fs-l1000.jpg&ehk=tWGUACGYDX3sJHhCAVA016Vp2dRLbhlNH8Ail7PJ5GU%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "13",
       "Name": "Adult Coloring Book: Stress Relieving Patterns",
       "Author": "Blue Star Coloring",
-      "User Rating": "4.4",
+      "Rating": "4.4",
       "Reviews": "2951",
       "Price": "6",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.4f39fe270e84b9c51f22ec2c32a3d8d6?rik=NCxhhfLGMqc9gQ&riu=http%3a%2f%2fecx.images-amazon.com%2fimages%2fI%2f61hqTAoYCxL._SX258_BO1%2c204%2c203%2c200_.jpg&ehk=ZnXzLrh6Dk6b%2f2vqRAdzhMl52L9co5rdmeGDRESXPQs%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "\"Adult Coloring Books: A Coloring Book for Adults Featuring Mandalas and Henna Inspired Flowers",
-      "Author": " Animals",
-      "User Rating": " and Paisley…\"",
-      "Reviews": "Coloring Books for Adults",
-      "Price": "4.5",
-      "Year": "2426",
-      "Genre\r": "8"
-    },
-    {
+      "Id": "14",
       "Name": "Alexander Hamilton",
       "Author": "Ron Chernow",
-      "User Rating": "4.8",
+      "Rating": "4.8",
       "Reviews": "9198",
       "Price": "13",
       "Year": "2016",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Dydwu8Q-lggBvemMXKUl0AHaLF?pid=ImgDet&rs=1"
     },
     {
+      "Id": "15",
       "Name": "All the Light We Cannot See",
       "Author": "Anthony Doerr",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "36348",
       "Price": "14",
       "Year": "2014",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://dwcp78yw3i6ob.cloudfront.net/wp-content/uploads/2016/12/09134253/AllTheLightWeCannotSee.jpg"
     },
     {
-      "Name": "All the Light We Cannot See",
-      "Author": "Anthony Doerr",
-      "User Rating": "4.6",
-      "Reviews": "36348",
-      "Price": "14",
-      "Year": "2015",
-      "Genre\r": "Fiction\r"
-    },
-    {
+      "Id": "16",
       "Name": "Allegiant",
       "Author": "Veronica Roth",
-      "User Rating": "3.9",
+      "Rating": "3.9",
       "Reviews": "6310",
       "Price": "13",
       "Year": "2013",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.byFAlE53xlOtCuifnBb-aQHaLL?pid=ImgDet&rs=1"
     },
     {
+      "Id": "17",
       "Name": "American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History",
       "Author": "Chris Kyle",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "15921",
       "Price": "9",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.9517f97bb067d5307ece46a4301a0c41?rik=6u8oXODTyYYprA&riu=http%3a%2f%2fimg2.imagesbn.com%2fp%2f9780062238863_p0_v1_s260x420.JPG&ehk=IZMC6sAAirkIPGZTq3ddxoIwCv6Fzh%2bZOQladbv71ws%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "18",
       "Name": "And the Mountains Echoed",
       "Author": "Khaled Hosseini",
-      "User Rating": "4.3",
+      "Rating": "4.3",
       "Reviews": "12159",
       "Price": "13",
       "Year": "2013",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Nx71vl2fEI5VZxoHBnP0YwHaLR?pid=ImgDet&rs=1"
     },
     {
+      "Id": "19",
       "Name": "Arguing with Idiots: How to Stop Small Minds and Big Government",
       "Author": "Glenn Beck",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "798",
       "Price": "5",
       "Year": "2009",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.K9klcT7nit3x6SBk698yOQAAAA?pid=ImgDet&rs=1"
     },
     {
+      "Id": "20",
       "Name": "Astrophysics for People in a Hurry",
       "Author": "Neil deGrasse Tyson",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "9374",
       "Price": "9",
       "Year": "2017",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.-wwFm2JCxlUpaO6FJIUgxgHaJ4?pid=ImgDet&rs=1"
     },
     {
-      "Name": "\"Autobiography of Mark Twain",
-      "Author": " Vol. 1\"",
-      "User Rating": "Mark Twain",
-      "Reviews": "4.2",
-      "Price": "491",
-      "Year": "14",
-      "Genre\r": "2010"
-    },
-    {
+      "Id": "21",
       "Name": "Baby Touch and Feel: Animals",
       "Author": "DK",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "5360",
       "Price": "5",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.c3adfb15caf63b586665b070c4e1d5ca?rik=USb14QRH3y%2fZeA&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780756634681_p0_v1_s1200x630.jpg&ehk=bH6V5Rl5dFp72esJVaPmJWDtJIBARTVnJr%2bQYE7BsXw%3d&risl=&pid=ImgRaw&r=0"
     },
     {
+      "Id": "22",
       "Name": "Balance (Angie's Extreme Stress Menders)",
       "Author": "Angie Grace",
-      "User Rating": "4.6",
+      "Rating": "4.6",
       "Reviews": "1909",
       "Price": "11",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://i.ebayimg.com/images/g/EvsAAOSwhDBaAC7M/s-l300.jpg"
     },
     {
+      "Id": "23",
       "Name": "Barefoot Contessa Foolproof: Recipes You Can Trust: A Cookbook",
       "Author": "Ina Garten",
-      "User Rating": "4.8",
+      "Rating": "4.8",
       "Reviews": "1296",
       "Price": "24",
       "Year": "2012",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.crXfxvoAMZRtgmzi8S3AZgHaKO?pid=ImgDet&rs=1"
     },
     {
-      "Name": "\"Barefoot Contessa",
-      "Author": " How Easy Is That?: Fabulous Recipes & Easy Tips\"",
-      "User Rating": "Ina Garten",
-      "Reviews": "4.7",
-      "Price": "615",
-      "Year": "21",
-      "Genre\r": "2010"
-    },
-    {
+      "Id": "24",
       "Name": "Becoming",
       "Author": "Michelle Obama",
-      "User Rating": "4.8",
+      "Rating": "4.8",
       "Reviews": "61133",
       "Price": "11",
       "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.CxnHfOKvzQuCtzHbfp3JCQHaHa?pid=ImgDet&rs=1"
     },
     {
+      "Id": "25",
       "Name": "Becoming",
       "Author": "Michelle Obama",
-      "User Rating": "4.8",
+      "Rating": "4.8",
       "Reviews": "61133",
       "Price": "11",
       "Year": "2019",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.CxnHfOKvzQuCtzHbfp3JCQHaHa?pid=ImgDet&rs=1"
     },
     {
+      "Id": "26",
       "Name": "Being Mortal: Medicine and What Matters in the End",
       "Author": "Atul Gawande",
-      "User Rating": "4.8",
+      "Rating": "4.8",
       "Reviews": "11113",
       "Price": "15",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.ChwoQV8qfecaDrsrlxYNtgHaLM?pid=ImgDet&rs=1"
     },
     {
+      "Id": "27",
       "Name": "Between the World and Me",
       "Author": "Ta-Nehisi Coates",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "10070",
       "Price": "13",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.qQQbwmWd0u_0uMg2_gwrTwHaLV?pid=ImgDet&rs=1"
     },
     {
+      "Id": "28",
       "Name": "Between the World and Me",
       "Author": "Ta-Nehisi Coates",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "10070",
       "Price": "13",
       "Year": "2016",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.qQQbwmWd0u_0uMg2_gwrTwHaLV?pid=ImgDet&rs=1"
     },
     {
+      "Id": "29",
       "Name": "Born to Run",
       "Author": "Bruce Springsteen",
-      "User Rating": "4.7",
+      "Rating": "4.7",
       "Reviews": "3729",
       "Price": "18",
       "Year": "2016",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.f1_HAM2VKjeGxewVQ0OtxgHaLS?pid=ImgDet&rs=1"
     },
     {
-      "Name": "\"Breaking Dawn (The Twilight Saga",
-      "Author": " Book 4)\"",
-      "User Rating": "Stephenie Meyer",
-      "Reviews": "4.6",
-      "Price": "9769",
-      "Year": "13",
-      "Genre\r": "2009"
-    },
-    {
-      "Name": "\"Broke: The Plan to Restore Our Trust",
-      "Author": " Truth and Treasure\"",
-      "User Rating": "Glenn Beck",
-      "Reviews": "4.5",
-      "Price": "471",
-      "Year": "8",
-      "Genre\r": "2010"
-    },
-    {
-      "Name": "\"Brown Bear",
-      "Author": " Brown Bear",
-      "User Rating": " What Do You See?\"",
-      "Reviews": "Bill Martin Jr.",
-      "Price": "4.9",
-      "Year": "14344",
-      "Genre\r": "5"
-    },
-    {
-      "Name": "\"Brown Bear",
-      "Author": " Brown Bear",
-      "User Rating": " What Do You See?\"",
-      "Reviews": "Bill Martin Jr.",
-      "Price": "4.9",
-      "Year": "14344",
-      "Genre\r": "5"
-    },
-    {
-      "Name": "\"Cabin Fever (Diary of a Wimpy Kid",
-      "Author": " Book 6)\"",
-      "User Rating": "Jeff Kinney",
-      "Reviews": "4.8",
-      "Price": "4505",
-      "Year": "0",
-      "Genre\r": "2011"
-    },
-    {
-      "Name": "Calm the F*ck Down: An Irreverent Adult Coloring Book (Irreverent Book Series)",
-      "Author": "Sasha O'Hara",
-      "User Rating": "4.6",
-      "Reviews": "10369",
-      "Price": "4",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Can't Hurt Me: Master Your Mind and Defy the Odds",
-      "Author": "David Goggins",
-      "User Rating": "4.8",
-      "Reviews": "16244",
-      "Price": "18",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Capital in the Twenty First Century",
-      "Author": "Thomas Piketty",
-      "User Rating": "4.5",
-      "Reviews": "2884",
-      "Price": "28",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Catching Fire (The Hunger Games)",
-      "Author": "Suzanne Collins",
-      "User Rating": "4.7",
-      "Reviews": "22614",
-      "Price": "11",
-      "Year": "2010",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Catching Fire (The Hunger Games)",
-      "Author": "Suzanne Collins",
-      "User Rating": "4.7",
-      "Reviews": "22614",
-      "Price": "11",
-      "Year": "2011",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Catching Fire (The Hunger Games)",
-      "Author": "Suzanne Collins",
-      "User Rating": "4.7",
-      "Reviews": "22614",
-      "Price": "11",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Cravings: Recipes for All the Food You Want to Eat: A Cookbook",
-      "Author": "Chrissy Teigen",
-      "User Rating": "4.7",
-      "Reviews": "4761",
-      "Price": "16",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Crazy Love: Overwhelmed by a Relentless God",
-      "Author": "Francis Chan",
-      "User Rating": "4.7",
-      "Reviews": "1542",
-      "Price": "14",
-      "Year": "2009",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Crazy Love: Overwhelmed by a Relentless God",
-      "Author": "Francis Chan",
-      "User Rating": "4.7",
-      "Reviews": "1542",
-      "Price": "14",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Crazy Love: Overwhelmed by a Relentless God",
-      "Author": "Francis Chan",
-      "User Rating": "4.7",
-      "Reviews": "1542",
-      "Price": "14",
-      "Year": "2011",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Crazy Rich Asians (Crazy Rich Asians Trilogy)",
-      "Author": "Kevin Kwan",
-      "User Rating": "4.3",
-      "Reviews": "6143",
+      "Id": "30",
+      "Name": "10-Day Green Smoothie Cleanse",
+      "Author": "JJ Smith",
+      "Rating": "4.7",
+      "Reviews": "17350",
       "Price": "8",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Creative Haven Creative Cats Coloring Book (Adult Coloring)",
-      "Author": "Marjorie Sarnat",
-      "User Rating": "4.8",
-      "Reviews": "4022",
-      "Price": "4",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Creative Haven Owls Coloring Book (Adult Coloring)",
-      "Author": "Marjorie Sarnat",
-      "User Rating": "4.8",
-      "Reviews": "3871",
-      "Price": "5",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Cutting for Stone",
-      "Author": "Abraham Verghese",
-      "User Rating": "4.6",
-      "Reviews": "4866",
-      "Price": "11",
-      "Year": "2010",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Cutting for Stone",
-      "Author": "Abraham Verghese",
-      "User Rating": "4.6",
-      "Reviews": "4866",
-      "Price": "11",
-      "Year": "2011",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live",
-      "Author": " Love",
-      "User Rating": " Parent",
-      "Reviews": " and Lead\"",
-      "Price": "Brené Brown",
-      "Year": "4.8",
-      "Genre\r": "1329"
-    },
-    {
-      "Name": "\"David and Goliath: Underdogs",
-      "Author": " Misfits",
-      "User Rating": " and the Art of Battling Giants\"",
-      "Reviews": "Malcolm Gladwell",
-      "Price": "4.4",
-      "Year": "4642",
-      "Genre\r": "13"
-    },
-    {
-      "Name": "Dead And Gone: A Sookie Stackhouse Novel (Sookie Stackhouse/True Blood)",
-      "Author": "Charlaine Harris",
-      "User Rating": "4.6",
-      "Reviews": "1541",
-      "Price": "4",
-      "Year": "2009",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Dead in the Family (Sookie Stackhouse/True Blood",
-      "Author": " Book 10)\"",
-      "User Rating": "Charlaine Harris",
-      "Reviews": "4.3",
-      "Price": "1924",
-      "Year": "8",
-      "Genre\r": "2010"
-    },
-    {
-      "Name": "\"Dead Reckoning (Sookie Stackhouse/True Blood",
-      "Author": " Book 11)\"",
-      "User Rating": "Charlaine Harris",
-      "Reviews": "4.2",
-      "Price": "2094",
-      "Year": "4",
-      "Genre\r": "2011"
-    },
-    {
-      "Name": "Dear Zoo: A Lift-the-Flap Book",
-      "Author": "Rod Campbell",
-      "User Rating": "4.8",
-      "Reviews": "10922",
-      "Price": "5",
-      "Year": "2015",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Dear Zoo: A Lift-the-Flap Book",
-      "Author": "Rod Campbell",
-      "User Rating": "4.8",
-      "Reviews": "10922",
-      "Price": "5",
       "Year": "2016",
-      "Genre\r": "Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://imgv2-2-f.scribdassets.com/img/word_document/233284731/original/b8c280a574/1502110988"
     },
     {
-      "Name": "Dear Zoo: A Lift-the-Flap Book",
-      "Author": "Rod Campbell",
-      "User Rating": "4.8",
-      "Reviews": "10922",
-      "Price": "5",
-      "Year": "2017",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Dear Zoo: A Lift-the-Flap Book",
-      "Author": "Rod Campbell",
-      "User Rating": "4.8",
-      "Reviews": "10922",
-      "Price": "5",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Decision Points",
-      "Author": "George W. Bush",
-      "User Rating": "4.6",
-      "Reviews": "2137",
-      "Price": "17",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Delivering Happiness: A Path to Profits",
-      "Author": " Passion",
-      "User Rating": " and Purpose\"",
-      "Reviews": "Tony Hsieh",
-      "Price": "4.6",
-      "Year": "1651",
-      "Genre\r": "15"
-    },
-    {
-      "Name": "\"Diagnostic and Statistical Manual of Mental Disorders",
-      "Author": " 5th Edition: DSM-5\"",
-      "User Rating": "American Psychiatric Association",
-      "Reviews": "4.5",
-      "Price": "6679",
-      "Year": "105",
-      "Genre\r": "2013"
-    },
-    {
-      "Name": "\"Diagnostic and Statistical Manual of Mental Disorders",
-      "Author": " 5th Edition: DSM-5\"",
-      "User Rating": "American Psychiatric Association",
-      "Reviews": "4.5",
-      "Price": "6679",
-      "Year": "105",
-      "Genre\r": "2014"
-    },
-    {
-      "Name": "\"Diary of a Wimpy Kid: Hard Luck",
-      "Author": " Book 8\"",
-      "User Rating": "Jeff Kinney",
-      "Reviews": "4.8",
-      "Price": "6812",
-      "Year": "0",
-      "Genre\r": "2013"
-    },
-    {
-      "Name": "Diary of a Wimpy Kid: The Last Straw (Book 3)",
-      "Author": "Jeff Kinney",
-      "User Rating": "4.8",
-      "Reviews": "3837",
-      "Price": "15",
-      "Year": "2009",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Diary of a Wimpy Kid: The Long Haul",
-      "Author": "Jeff Kinney",
-      "User Rating": "4.8",
-      "Reviews": "6540",
-      "Price": "22",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Difficult Riddles For Smart Kids: 300 Difficult Riddles And Brain Teasers Families Will Love (Books for Smart Kids)",
-      "Author": "M Prefontaine",
-      "User Rating": "4.6",
-      "Reviews": "7955",
-      "Price": "5",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Divergent",
-      "Author": "Veronica Roth",
-      "User Rating": "4.6",
-      "Reviews": "27098",
-      "Price": "15",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Divergent",
-      "Author": "Veronica Roth",
-      "User Rating": "4.6",
-      "Reviews": "27098",
-      "Price": "15",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Divergent / Insurgent",
-      "Author": "Veronica Roth",
-      "User Rating": "4.5",
-      "Reviews": "17684",
-      "Price": "6",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Divine Soul Mind Body Healing and Transmission System: The Divine Way to Heal You",
-      "Author": " Humanity",
-      "User Rating": " Mother Earth",
-      "Reviews": " and All…\"",
-      "Price": "Zhi Gang Sha",
-      "Year": "4.6",
-      "Genre\r": "37"
-    },
-    {
-      "Name": "Doctor Sleep: A Novel",
+      "Id": "31",
+      "Name": "11/22/63: A Novel",
       "Author": "Stephen King",
-      "User Rating": "4.7",
-      "Reviews": "15845",
-      "Price": "13",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
+      "Rating": "4.6",
+      "Reviews": "2052",
+      "Price": "22",
+      "Year": "2011",
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/R.28f030c242fed2373452d61e5c83be33?rik=P1MtKZiT7i8WAw&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fonix%2fcvr9781501120602%2f11-22-63-9781501120602_hr.jpg&ehk=30vXIgGCL6cKX3cFCimBrTBagzBQGEjafP6W4Ilbclg%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "\"Dog Days (Diary of a Wimpy Kid",
-      "Author": " Book 4) (Volume 4)\"",
-      "User Rating": "Jeff Kinney",
-      "Reviews": "4.8",
-      "Price": "3181",
-      "Year": "12",
-      "Genre\r": "2009"
-    },
-    {
-      "Name": "Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "5062",
-      "Price": "6",
+      "Id": "32",
+      "Name": "12 Rules for Life: An Antidote to Chaos",
+      "Author": "Jordan B. Peterson",
+      "Rating": "4.7",
+      "Reviews": "18979",
+      "Price": "15",
       "Year": "2018",
-      "Genre\r": "Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://i0.wp.com/jordanbpeterson.com/wp-content/uploads/2016/10/Peter_12Rules-for-Life_new4_1.jpg?resize=683%2C1024&ssl=1"
     },
     {
-      "Name": "Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "4786",
-      "Price": "8",
+      "Id": "33",
+      "Name": "1984 (Signet Classics)",
+      "Author": "George Orwell",
+      "Rating": "4.7",
+      "Reviews": "21424",
+      "Price": "6",
       "Year": "2017",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://images-na.ssl-images-amazon.com/images/I/61o5Ne0aHtL.jpg"
     },
     {
-      "Name": "Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "7235",
-      "Price": "4",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
+      "Id": "34",
+      "Name": "A Dance with Dragons (A Song of Ice and Fire)",
+      "Author": "George R. R. Martin",
+      "Rating": "4.4",
+      "Reviews": "12643",
+      "Price": "11",
+      "Year": "2011",
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.tC14Ba83YWXZRks4rpit-wHaMN?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "7235",
-      "Price": "4",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
+      "Id": "35",
+      "Name": "A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons",
+      "Author": "George R. R. Martin",
+      "Rating": "4.7",
+      "Reviews": "19735",
+      "Price": "30",
+      "Year": "2014",
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Ibs3asRLo6wWI7B-q96BmwHaK4?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "12619",
-      "Price": "8",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "9089",
-      "Price": "8",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5)",
-      "Author": "Dav Pilkey",
-      "User Rating": "4.9",
-      "Reviews": "5470",
-      "Price": "6",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Double Down (Diary of a Wimpy Kid #11)",
-      "Author": "Jeff Kinney",
-      "User Rating": "4.8",
-      "Reviews": "5118",
-      "Price": "20",
-      "Year": "2016",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Dover Creative Haven Art Nouveau Animal Designs Coloring Book (Creative Haven Coloring Books)",
-      "Author": "Marty Noble",
-      "User Rating": "4.6",
-      "Reviews": "2134",
-      "Price": "5",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Drive: The Surprising Truth About What Motivates Us",
-      "Author": "Daniel H. Pink",
-      "User Rating": "4.5",
-      "Reviews": "2525",
-      "Price": "16",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Eat This Not That! Supermarket Survival Guide: The No-Diet Weight Loss Solution",
-      "Author": "David Zinczenko",
-      "User Rating": "4.5",
-      "Reviews": "720",
-      "Price": "1",
-      "Year": "2009",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Eat This",
-      "Author": " Not That! Thousands of Simple Food Swaps that Can Save You 10",
-      "User Rating": " 20",
-      "Reviews": " 30 Pounds--or More!\"",
-      "Price": "David Zinczenko",
-      "Year": "4.3",
-      "Genre\r": "956"
-    },
-    {
-      "Name": "\"Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss",
-      "Author": " Revised Edition\"",
-      "User Rating": "Joel Fuhrman MD",
-      "Reviews": "4.5",
-      "Price": "6346",
-      "Year": "9",
-      "Genre\r": "2011"
-    },
-    {
-      "Name": "\"Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss",
-      "Author": " Revised Edition\"",
-      "User Rating": "Joel Fuhrman MD",
-      "Reviews": "4.5",
-      "Price": "6346",
-      "Year": "9",
-      "Genre\r": "2012"
-    },
-    {
-      "Name": "Eclipse (Twilight Sagas)",
-      "Author": "Stephenie Meyer",
-      "User Rating": "4.7",
-      "Reviews": "5505",
-      "Price": "7",
-      "Year": "2009",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Eclipse (Twilight)",
-      "Author": "Stephenie Meyer",
-      "User Rating": "4.7",
-      "Reviews": "5505",
-      "Price": "18",
-      "Year": "2009",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Educated: A Memoir",
-      "Author": "Tara Westover",
-      "User Rating": "4.7",
-      "Reviews": "28729",
+      "Id": "36",
+      "Name": "A Gentleman in Moscow: A Novel",
+      "Author": "Amor Towles",
+      "Rating": "4.7",
+      "Reviews": "19699",
       "Price": "15",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Year": "2017",
+      "Genre": "Fiction",
+      "Url": "https://cdn2.penguin.com.au/covers/original/9780099558781.jpg"
     },
     {
-      "Name": "Educated: A Memoir",
-      "Author": "Tara Westover",
-      "User Rating": "4.7",
-      "Reviews": "28729",
-      "Price": "15",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Enchanted Forest: An Inky Quest and Coloring book (Activity Books",
-      "Author": " Mindfulness and Meditation",
-      "User Rating": " Illustrated Floral Prints…\"",
-      "Reviews": "Johanna Basford",
-      "Price": "4.7",
-      "Year": "5413",
-      "Genre\r": "9"
-    },
-    {
-      "Name": "Fahrenheit 451",
-      "Author": "Ray Bradbury",
-      "User Rating": "4.6",
-      "Reviews": "10721",
+      "Id": "37",
+      "Name": "A Man Called Ove: A Novel",
+      "Author": "Fredrik Backman",
+      "Rating": "4.6",
+      "Reviews": "23848",
       "Price": "8",
       "Year": "2016",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/R.f9261446a93a4e672853dbb200547f81?rik=FvK4Ena4jL1Wrg&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fonix%2fcvr9781476738024%2fa-man-called-ove-9781476738024_hr.jpg&ehk=Th%2b%2frIcPsyeDTBt4PmqGsUKSy2xtkJ1mS0rwJk2s7Bc%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Fahrenheit 451",
-      "Author": "Ray Bradbury",
-      "User Rating": "4.6",
-      "Reviews": "10721",
-      "Price": "8",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter)",
-      "Author": "J.K. Rowling",
-      "User Rating": "4.7",
-      "Reviews": "4370",
-      "Price": "15",
-      "Year": "2016",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fear: Trump in the White House",
-      "Author": "Bob Woodward",
-      "User Rating": "4.4",
-      "Reviews": "6042",
+      "Id": "38",
+      "Name": "A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror",
+      "Author": "Larry Schweikart",
+      "Rating": "4.6",
+      "Reviews": "460",
       "Price": "2",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Year": "2010",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.36bc544e7940449497b55014a0618f4d?rik=Xw6N8yHcyYafpA&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9781441756022_p0_v1_s1200x630.jpg&ehk=TKWfEyj5C8an7UW0eeCnSGvIuf%2fOlo%2bxRAbF8jXzw3E%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Fifty Shades Darker",
-      "Author": "E L James",
-      "User Rating": "4.4",
-      "Reviews": "23631",
-      "Price": "7",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fifty Shades Freed: Book Three of the Fifty Shades Trilogy (Fifty Shades of Grey Series) (English Edition)",
-      "Author": "E L James",
-      "User Rating": "4.5",
-      "Reviews": "20262",
-      "Price": "11",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series)",
-      "Author": "E L James",
-      "User Rating": "3.8",
-      "Reviews": "47265",
-      "Price": "14",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series)",
-      "Author": "E L James",
-      "User Rating": "3.8",
-      "Reviews": "47265",
-      "Price": "14",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed)",
-      "Author": "E L James",
-      "User Rating": "4.5",
-      "Reviews": "13964",
+      "Id": "39",
+      "Name": "A Stolen Life: A Memoir",
+      "Author": "Jaycee Dugard",
+      "Rating": "4.6",
+      "Reviews": "4149",
       "Price": "32",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
+      "Year": "2011",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.9b307636ef7440fb57cb7da85b86424a?rik=ugFq%2fXcbCuHlKw&riu=http%3a%2f%2fcovers.booktopia.com.au%2fbig%2f9780857207135%2fa-stolen-life.jpg&ehk=NHIxlNuHjHmNd%2fTOmeI1T7fJ4xhLBA0m31QVBBtUaRo%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Fire and Fury: Inside the Trump White House",
-      "Author": "Michael Wolff",
-      "User Rating": "4.2",
-      "Reviews": "13677",
+      "Id": "40",
+      "Name": "A Wrinkle in Time (Time Quintet)",
+      "Author": "Madeleine L'Engle",
+      "Rating": "4.5",
+      "Reviews": "5153",
+      "Price": "5",
+      "Year": "2018",
+      "Genre": "Fiction",
+      "Url": "https://s-media-cache-ak0.pinimg.com/736x/f4/05/19/f4051946bfaec58ab9b7aa754dc1aa10.jpg"
+    },
+    {
+      "Id": "41",
+      "Name": "Adult Coloring Book: Stress Relieving Animal Designs",
+      "Author": "Blue Star Coloring",
+      "Rating": "4.6",
+      "Reviews": "2925",
       "Price": "6",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "First 100 Words",
-      "Author": "Roger Priddy",
-      "User Rating": "4.7",
-      "Reviews": "17323",
-      "Price": "4",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "First 100 Words",
-      "Author": "Roger Priddy",
-      "User Rating": "4.7",
-      "Reviews": "17323",
-      "Price": "4",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.f6b5c9dfaadaca122106fb26116792c9?rik=OVgNNbXdui%2fU1A&riu=http%3a%2f%2fi.ebayimg.com%2fimages%2fi%2f361554839496-0-1%2fs-l1000.jpg&ehk=tWGUACGYDX3sJHhCAVA016Vp2dRLbhlNH8Ail7PJ5GU%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "First 100 Words",
-      "Author": "Roger Priddy",
-      "User Rating": "4.7",
-      "Reviews": "17323",
-      "Price": "4",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "First 100 Words",
-      "Author": "Roger Priddy",
-      "User Rating": "4.7",
-      "Reviews": "17323",
-      "Price": "4",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "First 100 Words",
-      "Author": "Roger Priddy",
-      "User Rating": "4.7",
-      "Reviews": "17323",
-      "Price": "4",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Food Rules: An Eater's Manual",
-      "Author": "Michael Pollan",
-      "User Rating": "4.4",
-      "Reviews": "1555",
-      "Price": "9",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Frozen (Little Golden Book)",
-      "Author": "RH Disney",
-      "User Rating": "4.7",
-      "Reviews": "3642",
-      "Price": "0",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Game Change: Obama and the Clintons",
-      "Author": " McCain and Palin",
-      "User Rating": " and the Race of a Lifetime\"",
-      "Reviews": "John Heilemann",
-      "Price": "4.4",
-      "Year": "1215",
-      "Genre\r": "9"
-    },
-    {
-      "Name": "Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows",
-      "Author": "George R.R. Martin",
-      "User Rating": "4.6",
-      "Reviews": "5594",
-      "Price": "5",
-      "Year": "2011",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows",
-      "Author": "George R.R. Martin",
-      "User Rating": "4.6",
-      "Reviews": "5594",
-      "Price": "5",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows",
-      "Author": "George R.R. Martin",
-      "User Rating": "4.6",
-      "Reviews": "5594",
-      "Price": "5",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "George Washington's Sacred Fire",
-      "Author": "Peter A. Lillback",
-      "User Rating": "4.5",
-      "Reviews": "408",
-      "Price": "20",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "George Washington's Secret Six: The Spy Ring That Saved the American Revolution",
-      "Author": "Brian Kilmeade",
-      "User Rating": "4.6",
-      "Reviews": "4799",
-      "Price": "16",
-      "Year": "2013",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Giraffes Can't Dance",
-      "Author": "Giles Andreae",
-      "User Rating": "4.8",
-      "Reviews": "14038",
-      "Price": "4",
-      "Year": "2015",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Giraffes Can't Dance",
-      "Author": "Giles Andreae",
-      "User Rating": "4.8",
-      "Reviews": "14038",
-      "Price": "4",
-      "Year": "2016",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Giraffes Can't Dance",
-      "Author": "Giles Andreae",
-      "User Rating": "4.8",
-      "Reviews": "14038",
-      "Price": "4",
-      "Year": "2017",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Giraffes Can't Dance",
-      "Author": "Giles Andreae",
-      "User Rating": "4.8",
-      "Reviews": "14038",
-      "Price": "4",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Giraffes Can't Dance",
-      "Author": "Giles Andreae",
-      "User Rating": "4.8",
-      "Reviews": "14038",
-      "Price": "4",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Girl",
-      "Author": " Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals\"",
-      "User Rating": "Rachel Hollis",
-      "Reviews": "4.6",
-      "Price": "7660",
-      "Year": "12",
-      "Genre\r": "2019"
-    },
-    {
-      "Name": "\"Girl",
-      "Author": " Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be\"",
-      "User Rating": "Rachel Hollis",
-      "Reviews": "4.6",
-      "Price": "22288",
-      "Year": "12",
-      "Genre\r": "2018"
-    },
-    {
-      "Name": "\"Girl",
-      "Author": " Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be\"",
-      "User Rating": "Rachel Hollis",
-      "Reviews": "4.6",
-      "Price": "22288",
-      "Year": "12",
-      "Genre\r": "2019"
-    },
-    {
-      "Name": "\"Glenn Beck's Common Sense: The Case Against an Out-of-Control Government",
-      "Author": " Inspired by Thomas Paine\"",
-      "User Rating": "Glenn Beck",
-      "Reviews": "4.6",
-      "Price": "1365",
-      "Year": "11",
-      "Genre\r": "2009"
-    },
-    {
-      "Name": "Go Set a Watchman: A Novel",
-      "Author": "Harper Lee",
-      "User Rating": "3.6",
-      "Reviews": "14982",
-      "Price": "19",
-      "Year": "2015",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Go the F**k to Sleep",
-      "Author": "Adam Mansbach",
-      "User Rating": "4.8",
-      "Reviews": "9568",
-      "Price": "9",
-      "Year": "2011",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Going Rogue: An American Life",
-      "Author": "Sarah Palin",
-      "User Rating": "4.6",
-      "Reviews": "1636",
+      "Id": "42",
+      "Name": "Adult Coloring Book: Stress Relieving Patterns",
+      "Author": "Blue Star Coloring",
+      "Rating": "4.4",
+      "Reviews": "2951",
       "Price": "6",
-      "Year": "2009",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Gone Girl",
-      "Author": "Gillian Flynn",
-      "User Rating": "4",
-      "Reviews": "57271",
-      "Price": "10",
-      "Year": "2012",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Gone Girl",
-      "Author": "Gillian Flynn",
-      "User Rating": "4",
-      "Reviews": "57271",
-      "Price": "10",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Gone Girl",
-      "Author": "Gillian Flynn",
-      "User Rating": "4",
-      "Reviews": "57271",
-      "Price": "9",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Good Days Start With Gratitude: A 52 Week Guide To Cultivate An Attitude Of Gratitude: Gratitude Journal",
-      "Author": "Pretty Simple Press",
-      "User Rating": "4.6",
-      "Reviews": "10141",
-      "Price": "6",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Good to Great: Why Some Companies Make the Leap and Others Don't",
-      "Author": "Jim Collins",
-      "User Rating": "4.5",
-      "Reviews": "3457",
-      "Price": "14",
-      "Year": "2009",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Good to Great: Why Some Companies Make the Leap and Others Don't",
-      "Author": "Jim Collins",
-      "User Rating": "4.5",
-      "Reviews": "3457",
-      "Price": "14",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Good to Great: Why Some Companies Make the Leap and Others Don't",
-      "Author": "Jim Collins",
-      "User Rating": "4.5",
-      "Reviews": "3457",
-      "Price": "14",
-      "Year": "2011",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Good to Great: Why Some Companies Make the Leap and Others Don't",
-      "Author": "Jim Collins",
-      "User Rating": "4.5",
-      "Reviews": "3457",
-      "Price": "14",
-      "Year": "2012",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Goodnight Moon",
-      "Author": "Margaret Wise Brown",
-      "User Rating": "4.8",
-      "Reviews": "8837",
-      "Price": "5",
-      "Year": "2017",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Goodnight Moon",
-      "Author": "Margaret Wise Brown",
-      "User Rating": "4.8",
-      "Reviews": "8837",
-      "Price": "5",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Goodnight Moon",
-      "Author": "Margaret Wise Brown",
-      "User Rating": "4.8",
-      "Reviews": "8837",
-      "Price": "5",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Goodnight",
-      "Author": " Goodnight Construction Site (Hardcover Books for Toddlers",
-      "User Rating": " Preschool Books for Kids)\"",
-      "Reviews": "Sherri Duskey Rinker",
-      "Price": "4.9",
-      "Year": "7038",
-      "Genre\r": "7"
-    },
-    {
-      "Name": "\"Goodnight",
-      "Author": " Goodnight Construction Site (Hardcover Books for Toddlers",
-      "User Rating": " Preschool Books for Kids)\"",
-      "Reviews": "Sherri Duskey Rinker",
-      "Price": "4.9",
-      "Year": "7038",
-      "Genre\r": "7"
-    },
-    {
-      "Name": "\"Grain Brain: The Surprising Truth about Wheat",
-      "Author": " Carbs",
-      "User Rating": " and Sugar--Your Brain's Silent Killers\"",
-      "Reviews": "David Perlmutter MD",
-      "Price": "4.6",
-      "Year": "5972",
-      "Genre\r": "10"
-    },
-    {
-      "Name": "Grey: Fifty Shades of Grey as Told by Christian (Fifty Shades of Grey Series)",
-      "Author": "E L James",
-      "User Rating": "4.4",
-      "Reviews": "25624",
-      "Price": "14",
       "Year": "2015",
-      "Genre\r": "Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.4f39fe270e84b9c51f22ec2c32a3d8d6?rik=NCxhhfLGMqc9gQ&riu=http%3a%2f%2fecx.images-amazon.com%2fimages%2fI%2f61hqTAoYCxL._SX258_BO1%2c204%2c203%2c200_.jpg&ehk=ZnXzLrh6Dk6b%2f2vqRAdzhMl52L9co5rdmeGDRESXPQs%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Guts",
-      "Author": "Raina Telgemeier",
-      "User Rating": "4.8",
-      "Reviews": "5476",
-      "Price": "7",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Hamilton: The Revolution",
-      "Author": "Lin-Manuel Miranda",
-      "User Rating": "4.9",
-      "Reviews": "5867",
-      "Price": "54",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Happy",
-      "Author": " Happy",
-      "User Rating": " Happy: My Life and Legacy as the Duck Commander\"",
-      "Reviews": "Phil Robertson",
-      "Price": "4.8",
-      "Year": "4148",
-      "Genre\r": "11"
-    },
-    {
-      "Name": "\"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter",
-      "Author": " Book 2)\"",
-      "User Rating": "J.K. Rowling",
-      "Reviews": "4.9",
-      "Price": "19622",
-      "Year": "30",
-      "Genre\r": "2016"
-    },
-    {
-      "Name": "\"Harry Potter and the Cursed Child",
-      "Author": " Parts 1 & 2",
-      "User Rating": " Special Rehearsal Edition Script\"",
-      "Reviews": "J.K. Rowling",
-      "Price": "4",
-      "Year": "23973",
-      "Genre\r": "12"
-    },
-    {
-      "Name": "\"Harry Potter and the Goblet of Fire: The Illustrated Edition (Harry Potter",
-      "Author": " Book 4) (4)\"",
-      "User Rating": "J. K. Rowling",
-      "Reviews": "4.9",
-      "Price": "7758",
-      "Year": "18",
-      "Genre\r": "2019"
-    },
-    {
-      "Name": "\"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter",
-      "Author": " Book 3)\"",
-      "User Rating": "J.K. Rowling",
-      "Reviews": "4.9",
-      "Price": "3146",
-      "Year": "30",
-      "Genre\r": "2017"
-    },
-    {
-      "Name": "\"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter",
-      "Author": " Book 1)\"",
-      "User Rating": "J.K. Rowling",
-      "Reviews": "4.9",
-      "Price": "10052",
-      "Year": "22",
-      "Genre\r": "2016"
-    },
-    {
-      "Name": "Harry Potter Coloring Book",
-      "Author": "Scholastic",
-      "User Rating": "4.7",
-      "Reviews": "3564",
-      "Price": "9",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Harry Potter Paperback Box Set (Books 1-7)",
-      "Author": "J. K. Rowling",
-      "User Rating": "4.8",
-      "Reviews": "13471",
-      "Price": "52",
-      "Year": "2016",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Have a Little Faith: A True Story",
-      "Author": "Mitch Albom",
-      "User Rating": "4.8",
-      "Reviews": "1930",
-      "Price": "4",
-      "Year": "2009",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
-      "Author": "Todd Burpo",
-      "User Rating": "4.7",
-      "Reviews": "15779",
-      "Price": "10",
-      "Year": "2011",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
-      "Author": "Todd Burpo",
-      "User Rating": "4.7",
-      "Reviews": "15779",
-      "Price": "10",
-      "Year": "2012",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
-      "Author": "J. D. Vance",
-      "User Rating": "4.4",
-      "Reviews": "15526",
-      "Price": "14",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
-      "Author": "J. D. Vance",
-      "User Rating": "4.4",
-      "Reviews": "15526",
-      "Price": "14",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Homebody: A Guide to Creating Spaces You Never Want to Leave",
-      "Author": "Joanna Gaines",
-      "User Rating": "4.8",
-      "Reviews": "3776",
-      "Price": "22",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "How to Win Friends & Influence People",
-      "Author": "Dale Carnegie",
-      "User Rating": "4.7",
-      "Reviews": "25001",
-      "Price": "11",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "How to Win Friends & Influence People",
-      "Author": "Dale Carnegie",
-      "User Rating": "4.7",
-      "Reviews": "25001",
-      "Price": "11",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "How to Win Friends & Influence People",
-      "Author": "Dale Carnegie",
-      "User Rating": "4.7",
-      "Reviews": "25001",
-      "Price": "11",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "How to Win Friends & Influence People",
-      "Author": "Dale Carnegie",
-      "User Rating": "4.7",
-      "Reviews": "25001",
-      "Price": "11",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "How to Win Friends & Influence People",
-      "Author": "Dale Carnegie",
-      "User Rating": "4.7",
-      "Reviews": "25001",
-      "Price": "11",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Howard Stern Comes Again",
-      "Author": "Howard Stern",
-      "User Rating": "4.3",
-      "Reviews": "5272",
-      "Price": "16",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Humans of New York",
-      "Author": "Brandon Stanton",
-      "User Rating": "4.8",
-      "Reviews": "3490",
-      "Price": "15",
-      "Year": "2013",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Humans of New York",
-      "Author": "Brandon Stanton",
-      "User Rating": "4.8",
-      "Reviews": "3490",
-      "Price": "15",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Humans of New York : Stories",
-      "Author": "Brandon Stanton",
-      "User Rating": "4.9",
-      "Reviews": "2812",
-      "Price": "17",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Hyperbole and a Half: Unfortunate Situations",
-      "Author": " Flawed Coping Mechanisms",
-      "User Rating": " Mayhem",
-      "Reviews": " and Other Things That Happened\"",
-      "Price": "Allie Brosh",
-      "Year": "4.7",
-      "Genre\r": "4896"
-    },
-    {
-      "Name": "\"I Am Confident",
-      "Author": " Brave & Beautiful: A Coloring Book for Girls\"",
-      "User Rating": "Hopscotch Girls",
-      "Reviews": "4.8",
-      "Price": "9737",
-      "Year": "7",
-      "Genre\r": "2019"
-    },
-    {
-      "Name": "\"I",
-      "Author": " Alex Cross\"",
-      "User Rating": "James Patterson",
-      "Reviews": "4.6",
-      "Price": "1320",
-      "Year": "7",
-      "Genre\r": "2009"
-    },
-    {
-      "Name": "If Animals Kissed Good Night",
-      "Author": "Ann Whitford Paul",
-      "User Rating": "4.8",
-      "Reviews": "16643",
-      "Price": "4",
-      "Year": "2017",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "If Animals Kissed Good Night",
-      "Author": "Ann Whitford Paul",
-      "User Rating": "4.8",
-      "Reviews": "16643",
-      "Price": "4",
-      "Year": "2019",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "If I Stay",
-      "Author": "Gayle Forman",
-      "User Rating": "4.3",
-      "Reviews": "7153",
-      "Price": "9",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"In the Garden of Beasts: Love",
-      "Author": " Terror",
-      "User Rating": " and an American Family in Hitler's Berlin\"",
-      "Reviews": "Eric Larson",
-      "Price": "4.4",
-      "Year": "4571",
-      "Genre\r": "21"
-    },
-    {
-      "Name": "Inferno",
-      "Author": "Dan Brown",
-      "User Rating": "4.1",
-      "Reviews": "29651",
-      "Price": "14",
-      "Year": "2013",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Inheritance: Book IV (Inheritance Cycle)",
-      "Author": "Christopher Paolini",
-      "User Rating": "4.6",
-      "Reviews": "5299",
-      "Price": "20",
-      "Year": "2011",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy…",
-      "Author": "Jennifer Smith",
-      "User Rating": "4.4",
-      "Reviews": "7396",
+      "Id": "43",
+      "Name": "Alexander Hamilton",
+      "Author": "Ron Chernow",
+      "Rating": "4.8",
+      "Reviews": "9198",
       "Price": "13",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
+      "Year": "2016",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Dydwu8Q-lggBvemMXKUl0AHaLF?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy…",
-      "Author": "Jennifer Smith",
-      "User Rating": "4.4",
-      "Reviews": "7396",
+      "Id": "44",
+      "Name": "All the Light We Cannot See",
+      "Author": "Anthony Doerr",
+      "Rating": "4.6",
+      "Reviews": "36348",
+      "Price": "14",
+      "Year": "2014",
+      "Genre": "Fiction",
+      "Url": "https://dwcp78yw3i6ob.cloudfront.net/wp-content/uploads/2016/12/09134253/AllTheLightWeCannotSee.jpg"
+    },
+    {
+      "Id": "45",
+      "Name": "Allegiant",
+      "Author": "Veronica Roth",
+      "Rating": "3.9",
+      "Reviews": "6310",
       "Price": "13",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "It's Not Supposed to Be This Way: Finding Unexpected Strength When Disappointments Leave You Shattered",
-      "Author": "Lysa TerKeurst",
-      "User Rating": "4.8",
-      "Reviews": "7062",
-      "Price": "12",
-      "Year": "2019",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
-      "Year": "2011",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
-      "Year": "2012",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
       "Year": "2013",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.byFAlE53xlOtCuifnBb-aQHaLL?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
+      "Id": "46",
+      "Name": "American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History",
+      "Author": "Chris Kyle",
+      "Rating": "4.6",
+      "Reviews": "15921",
+      "Price": "9",
       "Year": "2015",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.9517f97bb067d5307ece46a4301a0c41?rik=6u8oXODTyYYprA&riu=http%3a%2f%2fimg2.imagesbn.com%2fp%2f9780062238863_p0_v1_s260x420.JPG&ehk=IZMC6sAAirkIPGZTq3ddxoIwCv6Fzh%2bZOQladbv71ws%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Jesus Calling: Enjoying Peace in His Presence (with Scripture References)",
-      "Author": "Sarah Young",
-      "User Rating": "4.9",
-      "Reviews": "19576",
-      "Price": "8",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "JOURNEY TO THE ICE P",
-      "Author": "RH Disney",
-      "User Rating": "4.6",
-      "Reviews": "978",
-      "Price": "0",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Joyland (Hard Case Crime)",
-      "Author": "Stephen King",
-      "User Rating": "4.5",
-      "Reviews": "4748",
-      "Price": "12",
+      "Id": "47",
+      "Name": "And the Mountains Echoed",
+      "Author": "Khaled Hosseini",
+      "Rating": "4.3",
+      "Reviews": "12159",
+      "Price": "13",
       "Year": "2013",
-      "Genre\r": "Fiction\r"
+      "Genre": "Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.Nx71vl2fEI5VZxoHBnP0YwHaLR?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
-      "Author": "David Grann",
-      "User Rating": "4.6",
-      "Reviews": "8393",
-      "Price": "17",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Jesus (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.5",
-      "Reviews": "11391",
-      "Price": "12",
-      "Year": "2013",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Kennedy: The End of Camelot",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.6",
-      "Reviews": "8634",
-      "Price": "25",
-      "Year": "2012",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.7",
-      "Reviews": "9342",
-      "Price": "10",
-      "Year": "2011",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.7",
-      "Reviews": "9342",
-      "Price": "10",
-      "Year": "2012",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Patton: The Strange Death of World War II's Most Audacious General (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.6",
-      "Reviews": "10927",
-      "Price": "6",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing Reagan: The Violent Assault That Changed a Presidency (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.6",
-      "Reviews": "5235",
+      "Id": "48",
+      "Name": "Arguing with Idiots: How to Stop Small Minds and Big Government",
+      "Author": "Glenn Beck",
+      "Rating": "4.6",
+      "Reviews": "798",
       "Price": "5",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Killing the Rising Sun: How America Vanquished World War II Japan (Bill O'Reilly's Killing Series)",
-      "Author": "Bill O'Reilly",
-      "User Rating": "4.8",
-      "Reviews": "8916",
-      "Price": "6",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Kitchen Confidential Updated Edition: Adventures in the Culinary Underbelly (P.S.)",
-      "Author": "Anthony Bourdain",
-      "User Rating": "4.8",
-      "Reviews": "2507",
-      "Price": "8",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Knock-Knock Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.5",
-      "Reviews": "3673",
-      "Price": "4",
-      "Year": "2013",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Knock-Knock Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.5",
-      "Reviews": "3673",
-      "Price": "4",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Knock-Knock Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.5",
-      "Reviews": "3673",
-      "Price": "4",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Last Week Tonight with John Oliver Presents A Day in the Life of Marlon Bundo (Better Bundo Book",
-      "Author": " LGBT Childrens Book)\"",
-      "User Rating": "Jill Twiss",
-      "Reviews": "4.9",
-      "Price": "11881",
-      "Year": "13",
-      "Genre\r": "2018"
-    },
-    {
-      "Name": "Laugh-Out-Loud Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.6",
-      "Reviews": "6990",
-      "Price": "4",
-      "Year": "2013",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Laugh-Out-Loud Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.6",
-      "Reviews": "6990",
-      "Price": "4",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Laugh-Out-Loud Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.6",
-      "Reviews": "6990",
-      "Price": "4",
-      "Year": "2015",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Laugh-Out-Loud Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.6",
-      "Reviews": "6990",
-      "Price": "4",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Laugh-Out-Loud Jokes for Kids",
-      "Author": "Rob Elliott",
-      "User Rating": "4.6",
-      "Reviews": "6990",
-      "Price": "4",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Lean In: Women",
-      "Author": " Work",
-      "User Rating": " and the Will to Lead\"",
-      "Reviews": "Sheryl Sandberg",
-      "Price": "4.5",
-      "Year": "6132",
-      "Genre\r": "13"
-    },
-    {
-      "Name": "Leonardo da Vinci",
-      "Author": "Walter Isaacson",
-      "User Rating": "4.5",
-      "Reviews": "3014",
-      "Price": "21",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Lettering and Modern Calligraphy: A Beginner's Guide: Learn Hand Lettering and Brush Lettering",
-      "Author": "Paper Peony Press",
-      "User Rating": "4.4",
-      "Reviews": "7550",
-      "Price": "6",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Liberty and Tyranny: A Conservative Manifesto",
-      "Author": "Mark R. Levin",
-      "User Rating": "4.8",
-      "Reviews": "3828",
-      "Price": "15",
       "Year": "2009",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.K9klcT7nit3x6SBk698yOQAAAA?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Life",
-      "Author": "Keith Richards",
-      "User Rating": "4.5",
-      "Reviews": "2752",
-      "Price": "18",
-      "Year": "2010",
-      "Genre\r": "Non Fiction\r"
+      "Id": "49",
+      "Name": "Astrophysics for People in a Hurry",
+      "Author": "Neil deGrasse Tyson",
+      "Rating": "4.7",
+      "Reviews": "9374",
+      "Price": "9",
+      "Year": "2017",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.-wwFm2JCxlUpaO6FJIUgxgHaJ4?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Little Bee: A Novel",
-      "Author": "Chris Cleave",
-      "User Rating": "4.1",
-      "Reviews": "1467",
-      "Price": "10",
-      "Year": "2010",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Little Blue Truck",
-      "Author": "Alice Schertle",
-      "User Rating": "4.9",
-      "Reviews": "1884",
-      "Price": "0",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Little Fires Everywhere",
-      "Author": "Celeste Ng",
-      "User Rating": "4.5",
-      "Reviews": "25706",
-      "Price": "12",
-      "Year": "2018",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Looking for Alaska",
-      "Author": "John Green",
-      "User Rating": "4.5",
-      "Reviews": "8491",
-      "Price": "7",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "\"Love Wins: A Book About Heaven",
-      "Author": " Hell",
-      "User Rating": " and the Fate of Every Person Who Ever Lived\"",
-      "Reviews": "Rob Bell",
-      "Price": "4.2",
-      "Year": "1649",
-      "Genre\r": "13"
-    },
-    {
-      "Name": "Love You Forever",
-      "Author": "Robert Munsch",
-      "User Rating": "4.8",
-      "Reviews": "18613",
-      "Price": "5",
-      "Year": "2014",
-      "Genre\r": "Fiction\r"
-    },
-    {
-      "Name": "Love You Forever",
-      "Author": "Robert Munsch",
-      "User Rating": "4.8",
-      "Reviews": "18613",
+      "Id": "50",
+      "Name": "Baby Touch and Feel: Animals",
+      "Author": "DK",
+      "Rating": "4.6",
+      "Reviews": "5360",
       "Price": "5",
       "Year": "2015",
-      "Genre\r": "Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/R.c3adfb15caf63b586665b070c4e1d5ca?rik=USb14QRH3y%2fZeA&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780756634681_p0_v1_s1200x630.jpg&ehk=bH6V5Rl5dFp72esJVaPmJWDtJIBARTVnJr%2bQYE7BsXw%3d&risl=&pid=ImgRaw&r=0"
     },
     {
-      "Name": "Magnolia Table: A Collection of Recipes for Gathering",
-      "Author": "Joanna Gaines",
-      "User Rating": "4.8",
-      "Reviews": "9867",
-      "Price": "16",
-      "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Id": "51",
+      "Name": "Balance (Angie's Extreme Stress Menders)",
+      "Author": "Angie Grace",
+      "Rating": "4.6",
+      "Reviews": "1909",
+      "Price": "11",
+      "Year": "2015",
+      "Genre": "Non Fiction",
+      "Url": "https://i.ebayimg.com/images/g/EvsAAOSwhDBaAC7M/s-l300.jpg"
     },
     {
-      "Name": "Make It Ahead: A Barefoot Contessa Cookbook",
+      "Id": "52",
+      "Name": "Barefoot Contessa Foolproof: Recipes You Can Trust: A Cookbook",
       "Author": "Ina Garten",
-      "User Rating": "4.5",
-      "Reviews": "1386",
-      "Price": "20",
-      "Year": "2014",
-      "Genre\r": "Non Fiction\r"
+      "Rating": "4.8",
+      "Reviews": "1296",
+      "Price": "24",
+      "Year": "2012",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.crXfxvoAMZRtgmzi8S3AZgHaKO?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World",
-      "Author": "Admiral William H. McRaven",
-      "User Rating": "4.7",
-      "Reviews": "10199",
+      "Id": "53",
+      "Name": "Becoming",
+      "Author": "Michelle Obama",
+      "Rating": "4.8",
+      "Reviews": "61133",
       "Price": "11",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "\"Mastering the Art of French Cooking",
-      "Author": " Vol. 2\"",
-      "User Rating": "Julia Child",
-      "Reviews": "4.8",
-      "Price": "2926",
-      "Year": "27",
-      "Genre\r": "2009"
-    },
-    {
-      "Name": "Milk and Honey",
-      "Author": "Rupi Kaur",
-      "User Rating": "4.7",
-      "Reviews": "17739",
-      "Price": "8",
-      "Year": "2016",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Milk and Honey",
-      "Author": "Rupi Kaur",
-      "User Rating": "4.7",
-      "Reviews": "17739",
-      "Price": "8",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
-    },
-    {
-      "Name": "Milk and Honey",
-      "Author": "Rupi Kaur",
-      "User Rating": "4.7",
-      "Reviews": "17739",
-      "Price": "8",
       "Year": "2018",
-      "Genre\r": "Non Fiction\r"
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.CxnHfOKvzQuCtzHbfp3JCQHaHa?pid=ImgDet&rs=1"
     },
     {
-      "Name": "Milk and Vine: Inspirational Quotes From Classic Vines",
-      "Author": "Adam Gasiewski",
-      "User Rating": "4.4",
-      "Reviews": "3113",
-      "Price": "6",
-      "Year": "2017",
-      "Genre\r": "Non Fiction\r"
+      "Id": "54",
+      "Name": "Becoming",
+      "Author": "Michelle Obama",
+      "Rating": "4.8",
+      "Reviews": "61133",
+      "Price": "11",
+      "Year": "2019",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.CxnHfOKvzQuCtzHbfp3JCQHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "Id": "55",
+      "Name": "Being Mortal: Medicine and What Matters in the End",
+      "Author": "Atul Gawande",
+      "Rating": "4.8",
+      "Reviews": "11113",
+      "Price": "15",
+      "Year": "2015",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.ChwoQV8qfecaDrsrlxYNtgHaLM?pid=ImgDet&rs=1"
+    },
+    {
+      "Id": "56",
+      "Name": "Between the World and Me",
+      "Author": "Ta-Nehisi Coates",
+      "Rating": "4.7",
+      "Reviews": "10070",
+      "Price": "13",
+      "Year": "2015",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.qQQbwmWd0u_0uMg2_gwrTwHaLV?pid=ImgDet&rs=1"
+    },
+    {
+      "Id": "57",
+      "Name": "Between the World and Me",
+      "Author": "Ta-Nehisi Coates",
+      "Rating": "4.7",
+      "Reviews": "10070",
+      "Price": "13",
+      "Year": "2016",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.qQQbwmWd0u_0uMg2_gwrTwHaLV?pid=ImgDet&rs=1"
+    },
+    {
+      "Id": "58",
+      "Name": "Born to Run",
+      "Author": "Bruce Springsteen",
+      "Rating": "4.7",
+      "Reviews": "3729",
+      "Price": "18",
+      "Year": "2016",
+      "Genre": "Non Fiction",
+      "Url": "https://th.bing.com/th/id/OIP.f1_HAM2VKjeGxewVQ0OtxgHaLS?pid=ImgDet&rs=1"
     }
   ]
 }
