@@ -8,7 +8,7 @@ const TextStyle = styled.p`
 
 export const CardBox = styled.div`
     width: 150px;
-    height: 100%;
+    height: 120%;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -75,11 +75,19 @@ export const Title = styled(TextStyle)`
     margin-bottom: 0;
     text-align: center;
     color: #000000;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+    height: 1.6rem;
+
     @media only screen and (min-width: 600px) {
         font-size: 90%;
+        height: 2rem;
     }
     @media only screen and (min-width: 992px) {
         font-size: 95%;
+        height: 2.4rem;
     }
 `;
 
