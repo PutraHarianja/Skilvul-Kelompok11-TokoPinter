@@ -4,6 +4,10 @@ import { BooksList } from './component/styled/book-item-card-styled';
 import { BooksContext } from './context/books-context';
 
 function App() {
+  <div className="App">
+    <CategoryIconCard iconElement={<fiction />} />
+  </div>;
+
   const { books, error, loading } = useContext(BooksContext);
 
   if (loading) {
