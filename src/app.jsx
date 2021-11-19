@@ -10,30 +10,9 @@ import Payment from "./Pages/payment";
 import Books from "./Pages/books";
 import Shipping from "./Pages/shipping";
 
-function App() {
 
-  const { books, error, loading } = useContext(BooksContext);
 
-  if (loading) {
-    return <h1>Loading...</h1>
-  }
-
-  if (error) {
-    return <h1>Mobile Legend Time</h1>
-  }
-
-  return (
-    <div>
-      <BooksList>
-        {books.map((book) => (
-          <BookItemCard book={book} onDescription={() => { console.log("Description") }} onAddToCart={() => { console.log("Added") }} />
-        ))}
-      </BooksList>
-    </div >
-  )
-}
-
-export default function App2() {
+export default function App() {
   return (
     <Router>
 
