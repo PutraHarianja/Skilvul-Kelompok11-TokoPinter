@@ -1,5 +1,6 @@
 import { React, useContext } from "react";
 import BookItemCard from "./component/book-item-card";
+import AlamatCard from "./component/alamat";
 import { BooksList } from "./component/styled/book-item-card-styled";
 import { BooksContext } from "./context/books-context";
 
@@ -19,12 +20,19 @@ function App() {
   }
 
   return (
+
+    // <div>
+    //   <BooksList>
+    //     {books.map((book) => (
+    //       <BookItemCard book={book} onDescription={() => { console.log("Description") }} onAddToCart={() => { console.log("Added") }} />
+    //     ))}
+    //   </BooksList>
+    // </div>
+
     <div>
-      <BooksList>
-        {books.map((book) => (
-          <BookItemCard book={book} onDescription={() => { console.log("Description") }} onAddToCart={() => { console.log("Added") }} />
-        ))}
-      </BooksList>
+     
+        <AlamatCard />
+  
     </div >
   )
 }
