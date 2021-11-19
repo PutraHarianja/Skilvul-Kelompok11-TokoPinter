@@ -25,7 +25,7 @@ export function BooksProvider({ children }) {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        const url = "http://localhost:3005/books";
+        const url = "https://api-tokopinter.herokuapp.com/books";
         fetch(url)
             .then((response) => response.json())
             .then((responseBooks) => responseBooks.map(createNewBooks))
