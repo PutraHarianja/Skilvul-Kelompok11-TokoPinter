@@ -1,31 +1,34 @@
 import { React, useContext } from "react";
-import BookItemCard from "./component/book-item-card";
-import { BooksList } from "./component/styled/book-item-card-styled";
 import { BooksContext } from "./context/books-context";
+import { Home } from "./pages/home"
+import { Cart } from "./pages/cart"
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 
 
 
 function App() {
 
-  const { books, error, loading } = useContext(BooksContext);
+  const { error, loading } = useContext(BooksContext);
 
   if (loading) {
     return <h1>Loading...</h1>
   }
 
   if (error) {
-    return <h1>Mobile Legend Time</h1>
+    return <h1>Server not found</h1>
   }
 
   return (
-    <div>
-      <BooksList>
-        {books.map((book) => (
-          <BookItemCard book={book} onDescription={() => { console.log("Description") }} onAddToCart={() => { console.log("Added") }} />
-        ))}
-      </BooksList>
-    </div >
+    <BrowserRouter>
+      <div>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/cart" component={Cart} />
+          <Route path="/deskription" component={Cart} />
+        </Switch>
+      </div>
+    </BrowserRouter>
   )
 }
 

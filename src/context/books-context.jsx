@@ -2,6 +2,7 @@ import { createContext, useEffect, useState } from "react";
 
 function createNewBooks(books) {
     return {
+        Id: books.Id,
         Name: books.Name,
         Author: books.Author,
         Rating: books.Rating,
@@ -31,7 +32,7 @@ export function BooksProvider({ children }) {
             .then((value) => setBooks(value))
             .catch(setError)
             .finally(() => setLoading(false));
-    }, []); // componentDidMount
+    }, []); // componentDidMount 
 
     const contextValue = {
         books: books,
